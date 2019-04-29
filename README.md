@@ -1,9 +1,9 @@
 # CWT2019
 Clean Water Team 2019 Calendar of Awesomeness
 
-Author:
+Author: Frank Mammano; Frank.Mammano@Waterboards.ca.gov
 
-Agency:
+Agency: California State Water Resource Control Board (SWRCB) Office of Information Management and Analysis (OIMA)
 
 Purpose:
 
