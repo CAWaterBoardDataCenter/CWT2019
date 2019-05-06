@@ -7,8 +7,8 @@ Agency: California State Water Resource Control Board (SWRCB) Office of Informat
 
 Description: A calendar of events, important dates, holidays, and activities.
 
-Purpose: To provide a quick access calendar for people to utilize to participate or follow along with in their interest with participating with the Clean Water Team.
+Purpose: To provide an easily accessible and downloadable calendar to help staff and the general public to keep up with important dates and activities. The goal is to boost awareness and participation in the betterment of the quality of water in California.
 
-How to use the files: Just double click on the iCal zip file and it will automatically populate into Microsoft Outlook as well as being able to import it into other calendar softwares. This calendar also has the ability to toggle it on or off via a check box.
+How to use the files: All one needs to do is just double click on the iCal zip file and it will automatically populate into Microsoft Outlook as well as being able to import it into other calendar softwares. This calendar also has the ability to toggle it on or off via a check box. We are also hoping to have the file linked on the INTERNET so that those from the general public and outside the Water Boards can access it as well.
 
 Prerequisites:
