@@ -1,7 +1,7 @@
 # CWT2019
 Clean Water Team 2019 Calendar of Awesomeness
 
-Author: Frank Mammano; Frank.Mammano@Waterboards.ca.gov or State Water Resources Control Board or SWAMP or Clean Water Team
+Author: Frank Mammano (Frank.Mammano@Waterboards.ca.gov) and Candice Levesque (Candice.Levesque@Waterboards.ca.gov)
 
 Agency: California State Water Resource Control Board (SWRCB) Office of Information Management and Analysis (OIMA)
 
